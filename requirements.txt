@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+scipy
+google-generativeai
+SpeechRecognition
+gTTS
+numpy
